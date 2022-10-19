@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\Example1\\Example1.csproj": {}
+    "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\example1\\Example1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\Example1\\Example1.csproj": {
+    "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\example1\\Example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\Example1\\Example1.csproj",
+        "projectUniqueName": "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\example1\\Example1.csproj",
         "projectName": "Example1",
-        "projectPath": "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\Example1\\Example1.csproj",
+        "projectPath": "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\example1\\Example1.csproj",
         "packagesPath": "C:\\Users\\Владимир\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\Example1\\obj\\",
+        "outputPath": "C:\\Users\\Владимир\\Desktop\\GB\\c#\\DZ2\\example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владимир\\AppData\\Roaming\\NuGet\\NuGet.Config"
